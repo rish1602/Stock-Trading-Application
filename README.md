@@ -2,7 +2,7 @@
 This application fetches all stock information from twelve data API and displayes it to the user. 
 
 
-The config.json file has also to be included, but since it contains API key, which is private to individual, so we don't share that API key. 
+The config.json file also has to be included, but since it contains API key, which is private to individual so we don't share that API key and don't include that config.json file in github. To represent that some files are hidden, I've included .gitignore file in rep.  
 
 **For more info, check this out=>** https://iq.opengenus.org/trading-application-in-cpp/
 
