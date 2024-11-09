@@ -1,5 +1,8 @@
 # Stock-Trading-Application
-This application fetches all stock information from twelve data API and displayes it to the user.
+This application fetches all stock information from twelve data API and displayes it to the user. 
+
+
+The config.json file has also to be included, but since it contains API key, which is private to individual, so we don't share that API key. 
 
 **For more info, check this out=>** https://iq.opengenus.org/trading-application-in-cpp/
 
